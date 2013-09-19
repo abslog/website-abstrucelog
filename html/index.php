@@ -15,17 +15,27 @@
                 <img src="AbsLogSqLog.png" class="logo-img" height="60px" width="60px">
                 <ul class="nav nav-pills pull-right">
                     <li class="active"><a class="tab-title" href="#home" data-toggle="tab">Home</a></li>
-                    <li><a class="tab-title" href="#about" data-toggle="tab">Blogs</a></li>
+                    <li><a class="tab-title" href="#project" data-toggle="tab">Projects</a></li>
+                    <li><a class="tab-title" href="#blog" data-toggle="tab">Blogs</a></li>
                     <li><a class="tab-title" href="#about" data-toggle="tab">About</a></li>
-                    <li><a class="tab-title" href="#about" data-toggle="tab">Contact Me</a></li>
+                    <li><a class="tab-title" href="#contact" data-toggle="tab">Contact Me</a></li>
                 </ul>
             </div>
             <div class="tab-content">
                 <div class="tab-pane active" id="home">
                     <?php include './index/home.php';?>
                 </div>
+                <div class="tab-pane" id="project">
+                    <?php include './index/project.php';?>
+                </div>
+                <div class="tab-pane" id="blog">
+                    <?php include './index/blog.php';?>
+                </div>
                 <div class="tab-pane" id="about">
-                    
+                    <?php include './index/about.php';?>
+                </div>
+                <div class="tab-pane" id="contact">
+                    <?php include './index/contact.php';?>
                 </div>
             </div>
         </div>
