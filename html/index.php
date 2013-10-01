@@ -18,7 +18,7 @@
                     <li><a class="tab-title" href="#project" data-toggle="tab">Projects</a></li>
                     <li><a class="tab-title" href="#blog" data-toggle="tab">Blogs</a></li>
                     <li><a class="tab-title" href="#about" data-toggle="tab">About</a></li>
-                    <li><a class="tab-title" href="#contact" data-toggle="tab">Contact Me</a></li>
+                    <!-- <li><a class="tab-title" href="#contact" data-toggle="tab">Contact Me</a></li> -->
                 </ul>
             </div>
             <div class="tab-content">
@@ -34,9 +34,9 @@
                 <div class="tab-pane" id="about">
                     <?php include './index/about.php';?>
                 </div>
-                <div class="tab-pane" id="contact">
+                <!-- <div class="tab-pane" id="contact">
                     <?php include './index/contact.php';?>
-                </div>
+                </div> -->
             </div>
         </div>
 
