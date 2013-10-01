@@ -1,6 +1,8 @@
 
+//global namespace for the website
 var abslog = {};
 
+//manage the tab swithing for the applicaiton
 abslog.tabmanager = (function(){
     
     function init() {
@@ -22,6 +24,7 @@ abslog.tabmanager = (function(){
     
 }());
 
+//initialization should happen here
 $(document).ready(function(){
    abslog.tabmanager.init();
 });

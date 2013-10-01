@@ -18,6 +18,10 @@ body {}
 .logo-img {margin-bottom: 10px; margin-left: 20px;}
 .tab-title {font-size:18px;}
 
+.project-container {border: 2px; border-color: #d3d3d3; border-style: solid; border-radius: 20px; margin-top: 20px;}
+.project-title { margin-left: 50px; font-size: 30px;}
+.project-desc { margin-left : 50px; font-size: 20px; line-height: 150%;}
+
 .about-info {text-align: center; margin-top: 20px;}
 .about-desc-title {font-size: 20px;}
 .about-desc {font-size: 18px; margin-top: 20px; line-height: 150%;}
