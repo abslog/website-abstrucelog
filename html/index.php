@@ -12,7 +12,6 @@
 
         <div class="container">
             <div class="tabbable">
-                <img src="AbsLogSqLog.png" class="logo-img" height="60px" width="60px">
                 <ul class="nav nav-pills pull-right">
                     <li class="active"><a class="tab-title" href="#home" data-toggle="tab">Home</a></li>
                     <li><a class="tab-title" href="#project" data-toggle="tab">Projects</a></li>
