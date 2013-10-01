@@ -1,0 +1,8 @@
+root {display: block;}
+body {}
+
+.tab-title {font-size:18px;}
+.center-info-header {text-align: center; font-size:30px; margin-top: 50px;}
+.content-padd {margin-top:50px;}
+.container > .tabbable {margin-top: 2px; border-bottom: 2px; border-bottom-style: dotted; border-bottom-color: #d3d3d3;}
+.container > .tabbable > .nav {margin-top: 20px;}

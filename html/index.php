@@ -5,7 +5,8 @@
         <link rel="shortcut icon" href="favicon.ico"/>
         <link href="./ui/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"/>
         <title>Abslog</title>
-        <link href="general.css" rel="stylesheet"/>
+        <link href="common.css" rel="stylesheet"/>
+        <link href="index.css" rel="stylesheet"/>
     </head>
     <body>
         <?php include_once("./analyticstracking.php"); ?>
@@ -15,7 +16,7 @@
                 <ul id="index-tabs" class="nav nav-pills pull-right">
                     <li class="active"><a class="tab-title" href="#home">Home</a></li>
                     <li><a class="tab-title" href="#project">Projects</a></li>
-                    <li><a class="tab-title" href="#blog">Blogs</a></li>
+                    <li><a class="tab-title" href="#blog">Blog</a></li>
                     <li><a class="tab-title" href="#about">About</a></li>
                     <!-- <li><a class="tab-title" href="#contact" data-toggle="tab">Contact Me</a></li> -->
                 </ul>
