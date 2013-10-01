@@ -12,11 +12,11 @@
 
         <div class="container">
             <div class="tabbable">
-                <ul class="nav nav-pills pull-right">
-                    <li class="active"><a class="tab-title" href="#home" data-toggle="tab">Home</a></li>
-                    <li><a class="tab-title" href="#project" data-toggle="tab">Projects</a></li>
-                    <li><a class="tab-title" href="#blog" data-toggle="tab">Blogs</a></li>
-                    <li><a class="tab-title" href="#about" data-toggle="tab">About</a></li>
+                <ul id="index-tabs" class="nav nav-pills pull-right">
+                    <li class="active"><a class="tab-title" href="#home">Home</a></li>
+                    <li><a class="tab-title" href="#project">Projects</a></li>
+                    <li><a class="tab-title" href="#blog">Blogs</a></li>
+                    <li><a class="tab-title" href="#about">About</a></li>
                     <!-- <li><a class="tab-title" href="#contact" data-toggle="tab">Contact Me</a></li> -->
                 </ul>
             </div>
@@ -41,5 +41,6 @@
 
         <script src="./ui/lib/jquery/jquery-2.0.3.js"></script>
         <script src="./ui/lib/bootstrap/js/bootstrap.min.js"></script>
+        <script src="main.js"></script>
     </body>
 </html>
