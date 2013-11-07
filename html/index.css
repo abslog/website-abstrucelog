@@ -7,11 +7,18 @@
 
 .logo-img {margin-bottom: 10px; margin-left: 20px;}
 
+.wip-message {margin:50px; text-align: center; font-size: 30px;}
+
 .project-container {border: 2px; border-color: #d3d3d3; border-style: solid; border-radius: 20px; margin-top: 20px;}
 .project-link {cursor: pointer; float: left;}
 .project-title { margin-left: 50px; font-size: 30px;}
 .project-desc { margin-left : 50px; font-size: 20px; line-height: 150%;}
 .project-git-link {height: 55px; width: 55px; float: right; margin-top:5px; margin-right: 50px; cursor: pointer;}
+
+.blog-container {border: 2px; border-color: #d3d3d3; border-style: solid; border-radius: 20px; margin-top: 20px;}
+.blog-link {cursor: pointer;}
+.blog-title { margin-left: 50px; font-size: 30px;}
+.blog-desc { margin-left : 50px; font-size: 20px; line-height: 150%;}
 
 .about-info {text-align: center; margin-top: 20px;}
 .about-desc-title {font-size: 20px;}
